@@ -72,6 +72,7 @@
     - [Server setup](/docs/{{version}}/server-setup-and-configuration)
 - ## Tutorials & Examples
     - [Collection of real-world examples, and step-by-step tutorials](/docs/{{version}}/collection-of-real-world-examples-and-step-by-step-tutorials)
+      - [How to add your own product-links providers (similar to related, upsell, etc. products links))](/docs/{{version}}/tutorials-and-examples/how-to-add-your-own-products-links-providers)
     - [Case studies of problem-solving in Magento 2](/docs/{{version}}/case-studies-of-problem-solving-in-magento-2)
 - ## Community & Support
     - [Get help and support](/docs/{{version}}/how-to-get-help-and-support)
